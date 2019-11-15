@@ -1,0 +1,124 @@
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\source\repos\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Michelle\Documents\Patrones-Practicas\examen\examenAbstract\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Log.resources
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\actual2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form4.resources
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form4.resources
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Log.resources
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\actual3\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form4.resources
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Log.resources
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\actual3 e\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form4.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Log.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 1\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form4.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form5.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Log.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Documents\paraExamen\EXAMEN ACTUAL 2\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form4.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form5.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CopyComplete
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb
+C:\Users\Michelle\Documents\Patrones-Practicas\Examen2-AbstractFactory\v2ExamenAFactory\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe.config
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\bin\Debug\v2ExamenAFactory.pdb
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csprojAssemblyReference.cache
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form1.resources
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form2.resources
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form3.resources
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form4.resources
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Forms.Form5.resources
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.Properties.Resources.resources
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.GenerateResource.cache
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.csproj.CopyComplete
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.exe
+C:\Users\Juliet\Desktop\EXAMEN 2\QuinteroRochaJulietGuadalupe\ExamenFabrica\v2ExamenAFactory\obj\Debug\v2ExamenAFactory.pdb

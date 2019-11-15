@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v2ExamenAFactory", "v2ExamenAFactory\v2ExamenAFactory.csproj", "{8B0F2C76-BD62-4CAC-9541-0800146CE00D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorExamenFabricaUpd", "InstaladorExamenFabricaUpd\InstaladorExamenFabricaUpd.vdproj", "{F64D279D-8E12-44FF-A6F4-AB5F4513F587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0F2C76-BD62-4CAC-9541-0800146CE00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0F2C76-BD62-4CAC-9541-0800146CE00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0F2C76-BD62-4CAC-9541-0800146CE00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0F2C76-BD62-4CAC-9541-0800146CE00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64D279D-8E12-44FF-A6F4-AB5F4513F587}.Debug|Any CPU.ActiveCfg = Debug
+		{F64D279D-8E12-44FF-A6F4-AB5F4513F587}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA292C6-06BE-4AF2-9498-69D1FDE8A669}
+	EndGlobalSection
+EndGlobal
